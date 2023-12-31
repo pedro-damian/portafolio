@@ -13,6 +13,7 @@ body {
 .contenedor {
   width: 90%;
   max-width: 1000px;
+  border: 2px solid;
   margin: auto;
   overflow: hidden; }
 
@@ -24,7 +25,8 @@ header {
   max-height: 600px; }
   header .menu {
     margin: 40px 0;
-    text-align: right; }
+    text-align: right;
+    border: 1px solid; }
     header .menu a {
       margin: 0 20px;
       color: #fff;
